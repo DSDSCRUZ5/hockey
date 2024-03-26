@@ -1,2 +1,1 @@
-# hockey
-nuevo trabajo práctica
+# Migthy Ducks Hockey League
